@@ -1,0 +1,178 @@
+{
+  "uid" : "a3790f6d073312c9",
+  "name" : "test_login_with_invalid_email_and_valid_password",
+  "fullName" : "tests.test_Login.TestSearch#test_login_with_invalid_email_and_valid_password",
+  "historyId" : "5f7224622e431e2e83a1da4d12b2aec6",
+  "time" : {
+    "start" : 1682496979446,
+    "stop" : 1682496981120,
+    "duration" : 1674
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "setup_and_teardown",
+    "time" : {
+      "start" : 1682496967255,
+      "stop" : 1682496979444,
+      "duration" : 12189
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "log_on_failure",
+    "time" : {
+      "start" : 1682496979445,
+      "stop" : 1682496979445,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "setup_and_teardown::0",
+    "time" : {
+      "start" : 1682496981127,
+      "stop" : 1682496983490,
+      "duration" : 2363
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "log_on_failure::0",
+    "time" : {
+      "start" : 1682496981122,
+      "stop" : 1682496981122,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('setup_and_teardown', 'log_on_failure')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSearch"
+  }, {
+    "name" : "host",
+    "value" : "ArunMotoori"
+  }, {
+    "name" : "thread",
+    "value" : "8924-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "80f5ff4aa300626c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496009591,
+        "stop" : 1682496012132,
+        "duration" : 2541
+      }
+    }, {
+      "uid" : "7f2f919b0cf81812",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682494264081,
+        "stop" : 1682494267146,
+        "duration" : 3065
+      }
+    }, {
+      "uid" : "db2b6cb1b7ddef94",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682493934034,
+        "stop" : 1682493936749,
+        "duration" : 2715
+      }
+    }, {
+      "uid" : "ddd07f95a154e85f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682493532245,
+        "stop" : 1682493536816,
+        "duration" : 4571
+      }
+    }, {
+      "uid" : "2b497d2bebaa9b4a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682421340443,
+        "stop" : 1682421342609,
+        "duration" : 2166
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "502d9442ebe845d5",
+        "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/502d9442ebe845d5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1682496009591,
+          "stop" : 1682496012132,
+          "duration" : 2541
+        }
+      } ]
+    },
+    "tags" : [ "@pytest.mark.usefixtures('setup_and_teardown', 'log_on_failure')" ]
+  },
+  "source" : "a3790f6d073312c9.json",
+  "parameterValues" : [ ]
+}

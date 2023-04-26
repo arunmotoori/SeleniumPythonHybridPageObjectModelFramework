@@ -1,0 +1,15 @@
+[ {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 203479
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 205797
+  }
+} ]

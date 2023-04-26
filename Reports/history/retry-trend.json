@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 13,
+    "retry" : 52
+  }
+} ]

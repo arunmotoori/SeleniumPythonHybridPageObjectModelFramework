@@ -1,0 +1,381 @@
+{
+  "cbe385620e7123c87573670350df9bb7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "64be60f8e9769485",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/64be60f8e9769485",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496931372,
+        "stop" : 1682496933326,
+        "duration" : 1954
+      }
+    }, {
+      "uid" : "fc195e8bf0872a99",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/fc195e8bf0872a99",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682495959126,
+        "stop" : 1682495961302,
+        "duration" : 2176
+      }
+    } ]
+  },
+  "ca1b4bf0da820bbe4d27945542b6ece3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "48393f897299508c",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/48393f897299508c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496946701,
+        "stop" : 1682496948548,
+        "duration" : 1847
+      }
+    }, {
+      "uid" : "3ed033fac3ba0324",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/3ed033fac3ba0324",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682495976392,
+        "stop" : 1682495978930,
+        "duration" : 2538
+      }
+    } ]
+  },
+  "5f7224622e431e2e83a1da4d12b2aec6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a3790f6d073312c9",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/a3790f6d073312c9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496979446,
+        "stop" : 1682496981120,
+        "duration" : 1674
+      }
+    }, {
+      "uid" : "502d9442ebe845d5",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/502d9442ebe845d5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496009591,
+        "stop" : 1682496012132,
+        "duration" : 2541
+      }
+    } ]
+  },
+  "7eda23a28d016ca3559f4417c8c10e63" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "726e43792d3e869b",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/726e43792d3e869b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682497090799,
+        "stop" : 1682497094373,
+        "duration" : 3574
+      }
+    }, {
+      "uid" : "e8e913b89d10e4e4",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/e8e913b89d10e4e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496116758,
+        "stop" : 1682496122551,
+        "duration" : 5793
+      }
+    } ]
+  },
+  "97e7a729aa4879b843bda05c059035ba" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7409be5d8a175504",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/7409be5d8a175504",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682497013323,
+        "stop" : 1682497014854,
+        "duration" : 1531
+      }
+    }, {
+      "uid" : "9085f43e0c6e1ef7",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/9085f43e0c6e1ef7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496047350,
+        "stop" : 1682496049913,
+        "duration" : 2563
+      }
+    } ]
+  },
+  "8f7245e3a6bf32feaa1752c8a367df45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "46263f8ee7737f91",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/46263f8ee7737f91",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682497047398,
+        "stop" : 1682497051702,
+        "duration" : 4304
+      }
+    }, {
+      "uid" : "347c789256a1e9c5",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/347c789256a1e9c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496079976,
+        "stop" : 1682496084828,
+        "duration" : 4852
+      }
+    } ]
+  },
+  "e873f4ce7b4dfa316032c66342bd1564" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "bb6ff38476ae3e24",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/bb6ff38476ae3e24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682497106324,
+        "stop" : 1682497107336,
+        "duration" : 1012
+      }
+    }, {
+      "uid" : "dd4b06582344d830",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/dd4b06582344d830",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496132663,
+        "stop" : 1682496133791,
+        "duration" : 1128
+      }
+    } ]
+  },
+  "d14e8ee323c8115d5cac626468bbfa35" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "96873956e0d84cc0",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/96873956e0d84cc0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496962816,
+        "stop" : 1682496964912,
+        "duration" : 2096
+      }
+    }, {
+      "uid" : "e5e6916b3ec3a039",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/e5e6916b3ec3a039",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682495992364,
+        "stop" : 1682495994780,
+        "duration" : 2416
+      }
+    } ]
+  },
+  "4f7e791a8bfc9969d7c3ec0dbf958f7e" : {
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "31267692ad8651ed",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/31267692ad8651ed",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = <method-wrapper '__eq__' of str object at 0x000002AB00D30570>('There is no product that matches the search criteria.ABC')\n +    where <method-wrapper '__eq__' of str object at 0x000002AB00D30570> = 'There is no product that matches the search criteria.'.__eq__\n +      where 'There is no product that matches the search criteria.' = <bound method SearchPage.retrieve_no_product_message of <pages.SearchPage.SearchPage object at 0x000002AB00AA38D0>>()\n +        where <bound method SearchPage.retrieve_no_product_message of <pages.SearchPage.SearchPage object at 0x000002AB00AA38D0>> = <pages.SearchPage.SearchPage object at 0x000002AB00AA38D0>.retrieve_no_product_message",
+      "time" : {
+        "start" : 1682497134001,
+        "stop" : 1682497134851,
+        "duration" : 850
+      }
+    }, {
+      "uid" : "380aebd969aa54e4",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/380aebd969aa54e4",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert False\n +  where False = <method-wrapper '__eq__' of str object at 0x0000015798BD0960>('There is no product that matches the search criteria.ABC')\n +    where <method-wrapper '__eq__' of str object at 0x0000015798BD0960> = 'There is no product that matches the search criteria.'.__eq__\n +      where 'There is no product that matches the search criteria.' = <bound method SearchPage.retrieve_no_product_message of <pages.SearchPage.SearchPage object at 0x000001579895A9D0>>()\n +        where <bound method SearchPage.retrieve_no_product_message of <pages.SearchPage.SearchPage object at 0x000001579895A9D0>> = <pages.SearchPage.SearchPage object at 0x000001579895A9D0>.retrieve_no_product_message",
+      "time" : {
+        "start" : 1682496163935,
+        "stop" : 1682496164923,
+        "duration" : 988
+      }
+    } ]
+  },
+  "261ae14c3847a007898df28979e3f2fa" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "67fecc1ab0df7789",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/67fecc1ab0df7789",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496997681,
+        "stop" : 1682496999318,
+        "duration" : 1637
+      }
+    }, {
+      "uid" : "964763fc843a0c62",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/964763fc843a0c62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496030409,
+        "stop" : 1682496032628,
+        "duration" : 2219
+      }
+    } ]
+  },
+  "ec33998390656fb50ab4b9b9ab10ee13" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "7ea8181929462604",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/7ea8181929462604",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682497073900,
+        "stop" : 1682497077882,
+        "duration" : 3982
+      }
+    }, {
+      "uid" : "6aea15aabe8a885d",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/6aea15aabe8a885d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496098666,
+        "stop" : 1682496103367,
+        "duration" : 4701
+      }
+    } ]
+  },
+  "d6b062385ff3013eb06f8f3f33cca05c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "81c73ebc38183b8b",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/81c73ebc38183b8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682497121229,
+        "stop" : 1682497122074,
+        "duration" : 845
+      }
+    }, {
+      "uid" : "edbd16b9c21251b0",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/edbd16b9c21251b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496149057,
+        "stop" : 1682496150226,
+        "duration" : 1169
+      }
+    } ]
+  },
+  "91602c345d1f55332e4356acb0b3c4e4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "b68e5a3a0ab13ba8",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/5/allure/#testresult/b68e5a3a0ab13ba8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682497026342,
+        "stop" : 1682497031415,
+        "duration" : 5073
+      }
+    }, {
+      "uid" : "deada182653fdbae",
+      "reportUrl" : "http://localhost:8080/job/TutorialsNinjaJob/4/allure/#testresult/deada182653fdbae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1682496061018,
+        "stop" : 1682496065747,
+        "duration" : 4729
+      }
+    } ]
+  }
+}
